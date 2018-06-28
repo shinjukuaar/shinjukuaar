@@ -1,5 +1,7 @@
 # shinjuku.aar #3
 
+![](/assets/shinjukuaar.png)
+
 Hashtag: `#shinjukuaar`
 
 ---

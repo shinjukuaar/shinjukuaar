@@ -2,13 +2,14 @@
 
 ![](/assets/shinjukuaar.png)
 
-
 - Twitter Hashtag: [#shinjukuaar](https://twitter.com/hashtag/shinjukuaar?src=hash)
 - connpass : [shinjuku-aar](https://shinjuku-aar.connpass.com/)
 
 Shinjuku.aarは、新宿界隈のAndroid技術者たちが 技術ネタで気軽にワイガヤできる コミュニティです。
 
 `.aar` が示すとおり、ネタ的には言語仕様やAPI version、ライブラリのネタが少し強めなmeetupです。
+
+## LT & Disucssion
 
 発表ごとにディスカッションタイムを設けており、発表中の質問やツッコミも随時ウェルカム！
 さらに、ディスカッションが盛り上がるよう、発表者には参加者に向けた 問いかけを一つ入れるようお願いしています。
@@ -18,3 +19,9 @@ Shinjuku.aarは、新宿界隈のAndroid技術者たちが 技術ネタで気軽
 意外にそこから話も発展したりして :eyes:
 
 :beers: Cheers! :pizza:
+
+## meetups
+
+- [#2](https://gitpitch.com/shinjukuaar/shinjukuaar/master?p=meetups/2) / [KPT](/meetups/2/kpt.md)
+- [#3](https://gitpitch.com/shinjukuaar/shinjukuaar/master?p=meetups/3) / [KPT](/meetups/3/kpt.md)
+

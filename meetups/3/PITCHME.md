@@ -35,7 +35,7 @@ Shinjuku.aarは、新宿界隈のAndroid技術者たちが技術ネタでワイ�
 
 ## sponser: 会場・フード・ドリンク👏
 
-![](https://github.com/shinjuku-mokumoku/meetup/blob/master/assets/sponser/repro-logo-colored.png?raw=true)
+![](/assets/sponsers/repro-logo-colored.png)
 
 ---
 

@@ -2,6 +2,7 @@
 layout : left-center
 
 # Look-and-Feel
-logo : /assets/shinjukuaar.png
+logo : /assets/images/shinjukuaar.png
 logo-position : top-right
 theme : sky
+theme-override : /assets/css/PITCHME.css

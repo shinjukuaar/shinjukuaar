@@ -1,6 +1,6 @@
 # shinjukuaar
 
-![](/assets/shinjukuaar.png)
+![](/assets/images/shinjukuaar.png)
 
 - Twitter Hashtag: [#shinjukuaar](https://twitter.com/hashtag/shinjukuaar?src=hash)
 - connpass : [shinjuku-aar](https://shinjuku-aar.connpass.com/)

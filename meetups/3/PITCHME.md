@@ -1,6 +1,6 @@
 ## shinjuku.aar #3
 
-![](/assets/shinjukuaar.png)
+![](/assets/images/shinjukuaar.png)
 
 Hashtag: `#shinjukuaar`
 
@@ -37,7 +37,7 @@ Shinjuku.aarは、新宿界隈のAndroid技術者たちが技術ネタでワイ�
 
 ## sponser: 会場・フード・ドリンク👏
 
-![](/assets/sponsers/repro-logo-colored.png)
+![](/assets/images/sponsers/repro-logo-colored.png)
 
 ---
 

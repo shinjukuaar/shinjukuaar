@@ -35,7 +35,9 @@ Shinjuku.aarは、新宿界隈のAndroid技術者たちが技術ネタでワイ�
 
 ---
 
-## sponser: 会場・フード・ドリンク👏
+## sponser
+
+会場・フード・ドリンク👏
 
 ![](/assets/images/sponsers/repro-logo-colored.png)
 

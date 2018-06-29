@@ -22,5 +22,5 @@ Shinjuku.aarは、新宿界隈のAndroid技術者たちが 技術ネタで気軽
 
 ## meetups
 
-- [#3](https://gitpitch.com/shinjukuaar/shinjukuaar/master?p=meetups/3) / [KPT](/meetups/3/kpt.md)
-- [#2](https://gitpitch.com/shinjukuaar/shinjukuaar/master?p=meetups/2) / [KPT](/meetups/2/kpt.md)
+- [README](/meetups/3/README.md) / [pitch](https://gitpitch.com/shinjukuaar/shinjukuaar/master?p=meetups/3) / [KPT](/meetups/3/kpt.md)
+- [README](/meetups/3/README.md) / [pitch](https://gitpitch.com/shinjukuaar/shinjukuaar/master?p=meetups/2) / [KPT](/meetups/2/kpt.md)

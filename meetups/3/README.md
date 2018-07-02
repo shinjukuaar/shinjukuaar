@@ -41,22 +41,22 @@ Time | Event
 
 こちらの建物の6Fです。
 
-![](https://github.com/shinjuku-mokumoku/meetup/blob/master/assets/sponser/repro-access-1.png?raw=true)
+![](https://github.com/shinjukuaar/shinjukuaar/blob/master/assets/images/sponsers/repro-access-1.png?raw=true)
 
 エレベーターから降りて**左**方向にお進みください。
 
-![](https://github.com/shinjuku-mokumoku/meetup/blob/master/assets/sponser/repro-access-2.png?raw=true)
+![](https://github.com/shinjukuaar/shinjukuaar/blob/master/assets/images/sponsers/repro-access-2.png?raw=true)
 
 エントランスからみて右手側です。
 
-![](https://github.com/shinjuku-mokumoku/meetup/blob/master/assets/sponser/repro-access-3.png?raw=true)
+![](https://github.com/shinjukuaar/shinjukuaar/blob/master/assets/images/sponsers/repro-access-3.png?raw=true)
 
 会場にお入りください
 
-![](https://github.com/shinjuku-mokumoku/meetup/blob/master/assets/sponser/repro-access-4.png?raw=true)
+![](https://github.com/shinjukuaar/shinjukuaar/blob/master/assets/images/sponsers/repro-access-4.png?raw=true)
 
 # スポンサー
 
 ## 会場・フード・ドリンク
 
-![](https://github.com/shinjuku-mokumoku/meetup/blob/master/assets/sponser/repro-logo-colored.png?raw=true)
+![](https://github.com/shinjukuaar/shinjukuaar/blob/master/assets/images/sponsers/repro-logo-colored.png?raw=true)

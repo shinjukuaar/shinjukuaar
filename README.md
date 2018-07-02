@@ -1,9 +1,9 @@
 # shinjukuaar
 
-![](/assets/images/shinjukuaar.png)
+![](/assets/images/shinjukuaar-banner-960x180.png)
 
-- Twitter Hashtag: [#shinjukuaar](https://twitter.com/hashtag/shinjukuaar?src=hash)
 - connpass : [shinjuku-aar](https://shinjuku-aar.connpass.com/)
+- Twitter Hashtag: [#shinjukuaar](https://twitter.com/hashtag/shinjukuaar?src=hash)
 
 Shinjuku.aarは、新宿界隈のAndroid技術者たちが 技術ネタで気軽にワイガヤできる コミュニティです。
 
@@ -22,5 +22,6 @@ Shinjuku.aarは、新宿界隈のAndroid技術者たちが 技術ネタで気軽
 
 ## meetups
 
-- [README](/meetups/3/README.md) / [pitch](https://gitpitch.com/shinjukuaar/shinjukuaar/master?p=meetups/3) / [KPT](/meetups/3/kpt.md)
-- [README](/meetups/3/README.md) / [pitch](https://gitpitch.com/shinjukuaar/shinjukuaar/master?p=meetups/2) / [KPT](/meetups/2/kpt.md)
+1. [README](/meetups/1/README.md) / [pitch](https://gitpitch.com/shinjukuaar/shinjukuaar/master?p=meetups/1) / [KPT](/meetups/1/kpt.md)
+1. [README](/meetups/2/README.md) / [pitch](https://gitpitch.com/shinjukuaar/shinjukuaar/master?p=meetups/2) / [KPT](/meetups/2/kpt.md)
+1. [README](/meetups/3/README.md) / [pitch](https://gitpitch.com/shinjukuaar/shinjukuaar/master?p=meetups/3) / [KPT](/meetups/3/kpt.md)

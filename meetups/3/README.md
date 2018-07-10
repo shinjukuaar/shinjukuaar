@@ -18,8 +18,7 @@ shinjuku.aarは、新宿界隈のAndroid技術者たちが **技術ネタで気�
 
 登壇者枠 -> ビギナー枠 -> 登壇者枠 -> ビギナー枠 という順で進みます
 
-- 登壇者枠
-- ビギナー登壇者枠
+TBD
 
 # タイムテーブル
 
@@ -37,26 +36,24 @@ Time | Event
 21:10 | 懇親会
 22:00 | 自由撤収
 
+# 会場
+
+![](https://github.com/shinjukuaar/shinjukuaar/blob/master/assets/images/sponsers/repro-access-4.png?raw=true)
+
 ## アクセス
 
 こちらの建物の6Fです。
 
 ![](https://github.com/shinjukuaar/shinjukuaar/blob/master/assets/images/sponsers/repro-access-1.png?raw=true)
 
-エレベーターから降りて**左**方向にお進みください。
-
-![](https://github.com/shinjukuaar/shinjukuaar/blob/master/assets/images/sponsers/repro-access-2.png?raw=true)
-
-エントランスからみて右手側です。
-
-![](https://github.com/shinjukuaar/shinjukuaar/blob/master/assets/images/sponsers/repro-access-3.png?raw=true)
-
-会場にお入りください
-
-![](https://github.com/shinjukuaar/shinjukuaar/blob/master/assets/images/sponsers/repro-access-4.png?raw=true)
-
 # スポンサー
 
 ## 会場・フード・ドリンク
 
 ![](https://github.com/shinjukuaar/shinjukuaar/blob/master/assets/images/sponsers/repro-logo-colored.png?raw=true)
+
+# 注意事項
+
+- 技術の共有が目的の勉強会です
+- 参加目的が不適切だと判断される場合には、運営側で参加をキャンセルさせていただく場合がございます
+- イベントの様子を撮影・録画し、ブログやSNSなどで公開することがあります。その際、来場者の姿も公開されることがあることをご了承ください

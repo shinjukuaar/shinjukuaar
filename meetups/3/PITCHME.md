@@ -1,12 +1,14 @@
 ## shinjuku.aar #3
 
-![](/assets/images/shinjukuaar.png)
+![](/assets/images/shinjukuaar-banner.png)
 
 Hashtag: `#shinjukuaar`
 
 ---
 
-## ニーズがありましたので毎月開催確定 🎉
+### 毎月開催確定 🎉
+
+やっていき 💪
 
 ---
 
@@ -35,11 +37,19 @@ Shinjuku.aarは、新宿界隈のAndroid技術者たちが技術ネタでワイ�
 
 ---
 
-## sponser
+## sponser 👏
 
-会場・フード・ドリンク👏
+フード | 会場・ドリンク
+--- | ---
+![](/assets/images/sponsers/forkwell-logo.png) | ![](/assets/images/sponsers/repro-logo-colored.png)
 
-![](/assets/images/sponsers/repro-logo-colored.png)
+---
+
+## Sponser talk
+
+forkwell さんからsponser talk
+
+👉  https://drive.google.com/file/d/1-zozCpMsIr7BIILdjdTxSMdr2sxM_Y2_/view
 
 ---
 
@@ -52,23 +62,26 @@ Shinjuku.aarは、新宿界隈のAndroid技術者たちが技術ネタでワイ�
 
 ---
 
-## Attention
+## Attention  ⚠️
 
-- イベントの様子を撮影・録画し、ブログやSNSなどで公開することがあります。その際、来場者の姿も公開されることがあることをご了承ください
+- となたでもイベントの様子を撮影・録画可能です。来場者の姿も公開されることがあることをご了承ください。
 
 ---
 
 ## LTs ⚡
 
-TBD
+1. 1つのアプリに複数のプッシュ通知サービスを入れた時 @takehiroxy
+1. RxIdlerを使ってみた話をします @youmeee
+1. 未定 @CaptainPag
+1. Background Execution LimitsのAndroid Pからの変更点 @konyavic
 
 ---
 
 ## slf introduction
 
-- handle, 名前
-- 会社や業務で普段やっていること
-- 最近技術ネタで興味があること・気になっていること
+1. handle, 名前
+1. 会社や業務で普段やっていること
+1. 最近技術ネタで興味があること・気になっていること
 
 ---
 

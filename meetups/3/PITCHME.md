@@ -6,7 +6,7 @@ Hashtag: `#shinjukuaar`
 
 ---
 
-### 毎月開催確定 🎉
+## 毎月開催確定 🎉
 
 やっていき 💪
 
@@ -37,11 +37,19 @@ Shinjuku.aarは、新宿界隈のAndroid技術者たちが技術ネタでワイ�
 
 ---
 
-## sponser 👏
+@snap[north]
+<h2>sponser 👏 </h2>
+@snapend
 
-フード | 会場・ドリンク
---- | ---
-![](/assets/images/sponsers/forkwell-logo.png) | ![](/assets/images/sponsers/repro-logo-colored.png)
+@snap[west sidebar]
+food<br>
+![forkwell](/assets/images/sponsers/forkwell-logo.png)
+@snapend
+
+@snap[east sidebar]
+drink & space<br>
+![Repro](/assets/images/sponsers/repro-logo-colored.png)
+@snapend
 
 ---
 
@@ -74,10 +82,20 @@ forkwell さんからsponser talk
 1. RxIdlerを使ってみた話をします @youmeee
 1. 未定 @CaptainPag
 1. Background Execution LimitsのAndroid Pからの変更点 @konyavic
+1. Visual Studio App Center @nakasho
 
 ---
 
-## slf introduction
+## Q&A
+
+👉　[slido.com](https://app2.sli.do/event/jmvklu26/questions) #J446
+
+- 発表後に軽くQAタイムを設けたいと思っています
+- slido, twitterを使って随時質問ください!
+
+---
+
+## self introduction
 
 1. handle, 名前
 1. 会社や業務で普段やっていること
@@ -85,9 +103,6 @@ forkwell さんからsponser talk
 
 ---
 
-## では乾杯してはじめましょう✨
+## 乾杯してはじめましょう✨
 
----
-
-## 🍻 カンパーイ！ 🍕
-
+# 🍻 カンパーイ！ 🍕

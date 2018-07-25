@@ -1,9 +1,15 @@
 # Layout
 layout : center-top
 
+transition : none
+
 # Look-and-Feel
 theme : sky
 theme-override : /assets/css/PITCHME.css
+# theme : moon
+# theme-override : /assets/css/bullseye/PITCHME.css
 
 code-line-numbers : true
 mathjax : TeX-MML-AM_HTMLorMML-full
+
+charts : true
